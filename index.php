@@ -1,3 +1,1 @@
-<?
-echo "Hello world";
-?>
+<?php echo "Index template"; ?>
