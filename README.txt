@@ -1,1 +1,2 @@
-README file
+README file.
+Created by Vlad Kukil. 
